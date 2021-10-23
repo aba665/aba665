@@ -1,6 +1,7 @@
  ### Oiii! eu sou o Abisson Santos 👋
 
-- 🌱 I’m currently learning Front-end and Back-end.
+- 🌱 Atualmente estudo Front-end e Back-end.
+- 👨‍🎓 E estou cursando Análise e Desenvolvimento de Sistema.
 
 ![aba665 GitHub stats](https://github-readme-stats.vercel.app/api?username=aba665&show_icons=true&theme=radical)<br/>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aba665)](https://github.com/aba665/github-readme-stats)-->
